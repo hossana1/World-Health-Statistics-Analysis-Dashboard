@@ -41,7 +41,7 @@ The USA, Australia, and the UK lead in hospital bed availability. Other countrie
 
 Across all countries, medication and therapy are the dominant forms of treatment. Surgery and vaccination are used consistently but to a lesser extent. Urbanization does not significantly change treatment distribution patterns.
 
-## 4. Diseases by Healthcare Access
+## Diseases by Healthcare Access
 ![Screenshot 2025-06-06 133552](https://github.com/user-attachments/assets/ba9352e4-1a8d-4fe3-b54c-ce6cbd29b4b3)
 
 Healthcare access is relatively balanced across most disease types, with slight variation. Chronic and genetic diseases receive marginally less access compared to cardiovascular or infectious diseases.
@@ -116,7 +116,7 @@ Zika, HIV/AIDS, and Malaria have shown the highest levels of improvement over th
 	•	Channel research and development funds toward diseases with low improvement rates, such as Alzheimer’s and Parkinson’s.
 	•	Encourage innovative treatments and early diagnosis tools for chronic and aging-related diseases.
 
-📌 Overall Strategy
+## 📌 Overall Strategy
 	•	Prevention First: Expand vaccination, sanitation, and awareness to reduce disease incidence.
 	•	Close Gaps: Improve access and infrastructure in lower-income countries and rural areas.
 	•	Targeted Investment: Allocate resources where progress is slow and disease burden is rising.
