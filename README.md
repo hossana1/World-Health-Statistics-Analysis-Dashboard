@@ -7,7 +7,8 @@
 
 ## 🔢 Key Metrics
 ## 🧾 Financial Metrics
-![image](https://github.com/user-attachments/assets/3fd113ed-f750-44bc-93d1-5112b165e839)
+![Screenshot 2025-06-13 144001](https://github.com/user-attachments/assets/8c354299-2b06-4300-97df-9d6ed490eaf4)
+
 
 # Total Premium Collected: $92.49K
 
