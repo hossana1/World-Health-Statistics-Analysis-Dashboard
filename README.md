@@ -1,123 +1,122 @@
-# World-Health-Statistics-Analysis-Dashboard
-The dataset covers a population base of 2 billion per capita records, with a per capita income range of $501 to $100K and an average of $50.25K.
- ### Analayst: Hossana
- ### Date: 22/05/2025
- ## Overview Of World Health Statistics Analysis Dashboard
- ![Screenshot 2025-06-06 124655](https://github.com/user-attachments/assets/f0a9dbd8-d71b-48a2-b14d-8f25b9f2024c)
- ## This dashboard presents a detailed analysis of global health indicators across 20 countries, focusing on:
-	•	Disease incident rates
-	•	Healthcare infrastructure (beds and doctor availability)
-	•	Treatment methods by urbanization
-	•	Vaccine spending per capita
-	•	Age and gender health patterns
-	•	Five-year disease improvement rates
+# Health Insurance Statistics Insights
+## This dashboard provides a detailed breakdown of health insurance data across regions, hospitals, disease departments, and demographics. It helps visualize financial performance, hospital efficiency, and health outcome metrics to inform strategic decisions.
+### Analyst: Hossana
+### Date:22/05/2025
+## Overview Of Health Insurance Dashboard:
+![health insurance](https://github.com/user-attachments/assets/a2bbb392-1c6e-4133-9d27-42566da9bc98)
 
-## 📊 Key Metrics —
-## World Health Dashboard Cards
-![Screenshot 2025-06-06 124728](https://github.com/user-attachments/assets/928d12bc-e764-48ad-8c14-94a5e32a6e14)
+## 🔢 Key Metrics
+## 🧾 Financial Metrics
+![image](https://github.com/user-attachments/assets/3fd113ed-f750-44bc-93d1-5112b165e839)
 
-  Total Per Capita: $2,000,000,000
+# Total Premium Collected: $92.49K
 
-	Average Per Capita Income: $50,250
- 
-  Maximum Per Capita Income: $100,000
+# Total Claims Settled: $36K
 
-  Minimum Per Capita Income: $501
-  
-	Number of Countries: 20
+# Target Average Policy: $3.1K (Goal: 2.00K, +55%)
 
-## Top Disease by Incident Rate
-![Screenshot 2025-06-06 124757](https://github.com/user-attachments/assets/64fe6529-3ae1-4ffd-8110-d236a7429f79)
+# 🏥 Health Performance
+Average Health Outcome Score: 79
 
-Cholera, Polio, and Measles have the highest global incident rates, each exceeding 8,000 reported cases. Alzheimer’s Disease and Leprosy are at the lower end, with around 7,200 cases.
+# Renewal Rate: 81%
 
-## Top Countries by Hospital Bed
-![Screenshot 2025-06-06 124810](https://github.com/user-attachments/assets/2c43462a-6014-4c6d-a581-3bb6fd3e2fce)
+## 📍 Regional Analysis
+# 💼 Total Premium vs. Claims Settled
+![Screenshot 2025-06-13 144009](https://github.com/user-attachments/assets/046f08e6-0799-4b06-b961-f79757a1a173)
 
-The USA, Australia, and the UK lead in hospital bed availability. Other countries, such as Indonesia and South Africa, have significantly fewer beds per capita.
+Northeast: $40K
 
-## Country Treatment Type by Urbanization Rate
-![Screenshot 2025-06-06 124821](https://github.com/user-attachments/assets/1061e0f7-56af-4fd8-8240-6e8605880cf4)
+West: $23K
 
-Across all countries, medication and therapy are the dominant forms of treatment. Surgery and vaccination are used consistently but to a lesser extent. Urbanization does not significantly change treatment distribution patterns.
+Midwest: $20K
 
-## Diseases by Healthcare Access
-![Screenshot 2025-06-06 133552](https://github.com/user-attachments/assets/ba9352e4-1a8d-4fe3-b54c-ce6cbd29b4b3)
+South: $10K
 
-Healthcare access is relatively balanced across most disease types, with slight variation. Chronic and genetic diseases receive marginally less access compared to cardiovascular or infectious diseases.
+# 📌 Insight: Northeast is the highest contributor in both premiums and claims, while the South is underpenetrated.
 
-## Top Country by Vaccine Per Capita Income
-![Screenshot 2025-06-06 133608](https://github.com/user-attachments/assets/81bd4a41-0012-4bca-bf8a-e23199d8d833)
+##  Mortality Rate by Region
+![Screenshot 2025-06-13 144041](https://github.com/user-attachments/assets/a029288c-d51b-47c2-b8a0-6846ceb96181)
 
-The UK, USA, and Indonesia spend the most per capita on vaccines, with values above $104 million. In contrast, South Africa and Brazil are among the lowest, spending under $95 million per capita.
+Northeast: 32.61%
 
-## Disease Distribution by Age Group
-![Screenshot 2025-06-06 133617](https://github.com/user-attachments/assets/9993a097-29bb-4ced-ad45-ec8184e82f7b)
+Midwest: 30.43%
 
-	•	Ages 0–18: Highest prevalence of Asthma, Measles, and Polio
-	•	Ages 19–35 and 36–60: Dominated by Dengue, Cancer, and HIV/AIDS
-	•	Ages 61+: Alzheimer’s, Cancer, and Parkinson’s Disease become significantly more common
+South: 23.91%
 
-## Gender by Recovery Rate
-![Screenshot 2025-06-06 133650](https://github.com/user-attachments/assets/733c3f3e-a3ab-4023-b0d7-1a90482364dc)
+West: 13.04%
 
-Recovery rates are nearly equal among genders:
-	•	Female: 33.62%
-	•	Male: 33.2%
-	•	Other: 33.17%
+# 📌 Insight: The West region shows better survival outcomes; Northeast and Midwest need further clinical review.
 
-## Doctor Availability by Disease Category
-![Screenshot 2025-06-06 133701](https://github.com/user-attachments/assets/f46b44d0-873a-400a-920f-beaa0d7be752)
+# 🏥 Hospital Performance
+# 🏆 Claims Settled by Hospital
+![Screenshot 2025-06-13 144035](https://github.com/user-attachments/assets/61e9e5bb-71fa-4f87-acbb-5c382446ba40)
 
-Cardiovascular and bacterial disease categories have the highest number of available doctors. Autoimmune and infectious diseases are supported by the fewest specialists.
+Karumuri Hospital: $20.9K
 
-## Improvement in 5 Years by Disease
-![Screenshot 2025-06-06 133728](https://github.com/user-attachments/assets/ca961112-eadc-4706-8495-e9bfa71eb9b1)
+Rims Govt. Hospital: $10K
 
-Zika, HIV/AIDS, and Malaria have shown the highest levels of improvement over the last five years, all exceeding 10K improvement. Alzheimer’s, Hypertension, and Parkinson’s have seen the least progress (below 9.6K).
+Others: Below $3K
 
-### ✅ Recommendations Based on Dashboard Analysis
+## 🩺 Health Outcomes by Hospital
+![Screenshot 2025-06-13 144026](https://github.com/user-attachments/assets/41f4216b-4007-48eb-b275-f3233ccc7d18)
 
-## Top Disease by Incident Rate
-	•	Prioritize national and international health campaigns targeting high-incident diseases like Cholera, Polio, and Measles.
-	•	Increase funding for preventive measures such as clean water, sanitation, and widespread vaccination programs.
 
-## Top Countries by Hospital Bed
-	•	Countries with fewer hospital beds should invest in healthcare infrastructure to ensure capacity for routine care and emergency response.
-	•	Partner with global health organizations to expand hospital access in underserved regions.
+Karumuri Hospital: 584
 
-## Country Treatment Type by Urbanization Rate
-	•	Encourage urban vaccination programs to reduce reliance on reactive treatments.
-	•	Expand access to advanced treatments like surgery in rural and semi-urban areas through mobile units or regional clinics.
+ENT Nursing Home: 88
 
-## Diseases by Healthcare Access
-	•	Strengthen healthcare access for chronic and genetic diseases by subsidizing long-term treatment and follow-up care.
-	•	Implement policies that ensure equitable access across all disease categories, especially in lower-income populations.
+KIMS SAI SESHDIRI Hospital: 78
 
-## Top Country by Vaccine Per Capita Income
-	•	Promote global vaccine equity by supporting international partnerships (e.g., COVAX) that assist countries with lower vaccine spending.
-	•	Develop public-private funding models to increase vaccine affordability in lower-income nations.
+Others: ≤ 45
 
-## Disease Distribution by Age Group
-	•	Tailor health policies by age:
-	•	Children (0–18): Emphasize immunization and early screening.
-	•	Adults (19–60): Focus on sexual health, cancer screening, and chronic disease prevention.
-	•	Seniors (61+): Invest in geriatric care, especially for neurodegenerative and cardiovascular diseases.
+# 📌 Insight: Karumuri Hospital leads significantly in both claims and patient outcomes—ideal for benchmarking.
 
-## Gender by Recovery Rate
-	•	Maintain and monitor gender equity in healthcare access and treatment.
-	•	Conduct deeper studies to detect any hidden disparities in health outcomes among underrepresented or non-binary groups.
+## 🧬 Departmental Outcomes
+## 🧠 Top Health Outcomes by Disease Department
+![Screenshot 2025-06-13 144017](https://github.com/user-attachments/assets/dfcadf4e-dda6-4d71-90aa-e9dbfe497d78)
 
-## Doctor Availability by Disease Category
-	•	Provide incentives for medical specialization in underserved areas like autoimmune and infectious diseases.
-	•	Support training programs and scholarships for specialties with low workforce numbers.
+Cardiac/Cardiothoracic Surgery: 390
 
-## Improvement in 5 Years by Disease
-	•	Channel research and development funds toward diseases with low improvement rates, such as Alzheimer’s and Parkinson’s.
-	•	Encourage innovative treatments and early diagnosis tools for chronic and aging-related diseases.
+Cardiology: 272
 
-## 📌 Overall Strategy
-	•	Prevention First: Expand vaccination, sanitation, and awareness to reduce disease incidence.
-	•	Close Gaps: Improve access and infrastructure in lower-income countries and rural areas.
-	•	Targeted Investment: Allocate resources where progress is slow and disease burden is rising.
-	•	Data-Driven Policies: Use age, gender, and geographic data to inform tailored healthcare strategies.
+Cochlear Implant Surgery: 88
+
+Nephrology: 45
+
+# 📌 Insight: Cardiac-related treatments deliver the highest outcomes, while nephrology underperforms.
+
+## 👥 Demographics & Policyholders
+## 👤 Gender Distribution
+![Screenshot 2025-06-13 144912](https://github.com/user-attachments/assets/fc000452-aa8f-467b-803d-55d081edbbfa)
+
+Male: 23
+
+Female: 13
+
+Male (Child): 6
+
+Female (Child): 4
+
+## 📌 Insight: Majority of policyholders are male adults. Child policy coverage is low—an opportunity for product targeting.
+
+## 📈 Recommendations for Stakeholders
+# 1. Expand in Underpenetrated Regions
+Why: The South has low premiums and claims.
+Action: Launch awareness campaigns and introduce low-premium products tailored for Southern demographics.
+
+# 2. Reduce Mortality in High-Risk Areas
+Why: Northeast and Midwest have higher death rates.
+Action: Conduct hospital audits, improve medical practices, and evaluate care quality standards.
+
+# 3. Benchmark Top-Performing Hospitals
+Why: Karumuri Hospital shows strong outcomes and claim management.
+Action: Use it as a training hub or standard-setter for lower-performing facilities.
+
+# 4. Address Underperforming Departments
+Why: Nephrology shows weak health outcomes.
+Action: Review staff training, treatment protocols, and equipment availability.
+
+# 5. Target Female & Child Policy Segments
+Why: Low enrollment among women and children.
+Action: Offer tailored family plans, maternity coverage, or children’s preventive care packages.
+
